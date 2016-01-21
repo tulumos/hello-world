@@ -1,2 +1,3 @@
 # hello-world
-Tutoriald asked me to.
+Tutorial asked me to.
+Slash slash dot dot...no really thats the name of it.
